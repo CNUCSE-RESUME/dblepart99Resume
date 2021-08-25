@@ -46,3 +46,4 @@
 ## Contact Me!
 
 - [Github](https://github.com/dblepart99)
+[2021년] [컴퓨터 네트워크] - A+의 성적으로 수강완료

@@ -19,3 +19,4 @@
 
 
 ## School Resume
+<br/>  [2021년 5월] [Google Code Jam] - 참가함

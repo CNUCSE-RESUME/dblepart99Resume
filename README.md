@@ -19,4 +19,4 @@
 
 
 ## School Resume
-<br/>  [2021년 5월] [Google Code Jam] - 참가함
+<br/>  [2021년 5월] [Google Code Jam] - 참가함<br/>  [2021년] [ICPC] - 본선 입선

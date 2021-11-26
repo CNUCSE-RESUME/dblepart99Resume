@@ -34,4 +34,4 @@
 
 - [방충망이 구비된 태양광 블라인드(Solar Photovotaic blind)](http://kipris.or.kr/mobile/search/view_patent.do?applno=1020160075033) (2016)
 
-## School Resume(Written on CheckGitOut)
+## School Resume(Written on Check-Git-Out)
